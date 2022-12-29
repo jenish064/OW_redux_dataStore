@@ -1,0 +1,8 @@
+index.js
+  app.js
+    child1.js
+      child2.js
+        child3.js // displaying data here
+    comp1.js
+      comp2.js
+        comp3.js // sending data from here.(changing value through button press)
